@@ -1,4 +1,5 @@
-# PBL memo
+# PBL開発　翻訳アプリ　開発手順
+- このアプリは、翻訳アプリである．google翻訳より高い翻訳精度（BLEU値）を目指す．
 
 # 翻訳アプリに使うモデルの作成
 - small_parallel_enjaをjaparacrawl事前学習済みモデル（ベースモデル）でfinetuiningする
