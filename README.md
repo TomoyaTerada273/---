@@ -7,7 +7,7 @@
 ## git clone
 ~~~
 git clone https://github.com/TomoyaTerada273/PBL_APPLICATION-main.git
-cd PBL_APPLICATION
+cd PBL_APPLICATION-main
 ~~~
 ## Anacondaが入っていなかったら導入
 - 詳しく説明しているサイト：https://hana-shin.hatenablog.com/entry/2022/02/12/203642
