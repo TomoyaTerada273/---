@@ -6,7 +6,7 @@
 - python 環境 3.8.10
 ## git clone
 ~~~
-git clone https://github.com/koretaka-ai/PBL_APPLICATION.git
+git clone https://github.com/TomoyaTerada273/PBL_APPLICATION-main.git
 cd PBL_APPLICATION
 ~~~
 ## Anacondaが入っていなかったら導入
